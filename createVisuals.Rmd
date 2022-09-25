@@ -1,0 +1,102 @@
+---
+title: "Life Expectancy Study"
+author: "Roy Minato"
+date: "2022-09-22"
+output: html_document
+---
+
+```{r}
+library(ggplot2)
+```
+
+```{r}
+data <- read.csv('C:\\Users\\roymi\\Desktop\\repos\\Life-Expectency-Study\\dataset.csv', 
+                 stringsAsFactors = FALSE)
+
+data$Region <- as.factor(data$Region)
+data$Continent <- as.factor(data$Continent)
+```
+
+```{r}
+# Look at the distribution of all life expectancies around the world
+
+ggplot(data, aes(x = All)) +
+  theme_bw() +
+  geom_histogram(binwidth = 3, fill = "cadetblue3") +
+  labs(x = "Life Expectancy (Years)",
+       y = "Number of Countries",
+       title = "Life Expectancy in Countries Worldwide (2019)")
+  
+```
+
+
+```{r}
+ggplot(data, aes(x = All)) +
+  theme_bw() +
+  facet_wrap(~ Continent) +
+  geom_histogram(binwidth = 3, fill = "aquamarine3") +
+  labs(x = "Life Expectancy",
+       y = "Number of Countries",
+       title = "Life Expectancy in Countries by Continent (2019)")
+```
+
+```{r}
+Europe <- data[data$Continent == 'Europe',]
+Asia <- data[data$Continent == 'Asia',]
+Africa <- data[data$Continent == 'Africa',]
+NorthAm <- data[data$Continent == 'North America',]
+SouthAm <- data[data$Continent == 'South America',]
+OCE <- data[data$Continent == 'Oceania',]
+```
+
+```{r}
+ggplot(Europe, aes(x = All, fill = Region)) +
+  theme_bw() +
+  geom_density(alpha = 0.4) +
+  labs(x = "Life Expectancy",
+       y = "Density",
+       title = "Life Expectancy Across European Regions (2019)")
+```
+
+```{r}
+ggplot(Europe, aes(x = GPI.Score , y = All)) +
+  theme_bw() +
+  facet_wrap(~ Region) +
+  geom_point() +
+  geom_smooth(method = 'lm', formula = y~x, se = FALSE) +
+  labs(x = "Global Peace Index Score (Lower is better)",
+       y = "Life Expectancy",
+       title = "Life Expectancy and GPI Scores in European Regions (2019)")
+```
+
+```{r}
+ggplot(Europe, aes(x = U5.Mortality.Rate)) +
+  theme_bw() +
+  facet_wrap(~ Region) +
+  geom_boxplot(fill = "darksalmon") +
+  labs (x = "Infant & Under-five Mortality Rate (Per 1000 Live Births)",
+        title = "Distribution of Infant Mortality Rates Across European Regions (2019)")
+```
+
+```{r}
+ggplot(Africa, aes(x = All)) +
+  theme_bw() +
+  geom_density(alpha = 0.45, fill = "blue") +
+  facet_wrap(~ Region) +
+  labs(x = "Life Expectancy",
+       y = "Density",
+       title = "Life Expectancy in African Regions (2019)")
+```
+
+```{r}
+ggplot(Africa, aes(x = GPI.Score , y = All)) +
+  theme_bw() +
+  facet_wrap(~ Region) +
+  geom_point() +
+  geom_smooth(method = 'lm', formula = y~x, se = FALSE) +
+  labs(x = "Global Peace Index Score (Lower is better)",
+       y = "Life Expectancy",
+       title = "Life Expectancy and GPI Scores in African Regions (2019)")
+```
+
+

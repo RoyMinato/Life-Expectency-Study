@@ -1,0 +1,139 @@
+Country,All,M,F,Gender life gap,Region,Continent,U5 Mortality Rate,GPI Score
+Japan,84.6,81.5,87.7,6.2,Eastern Asia,Asia,2.5,1.369
+Italy,84.0,81.9,86.1,4.2,Southern Europe,Europe,3.1,1.754
+Switzerland,83.8,81.9,85.6,3.7,Western Europe,Europe,4.0,1.375
+Singapore,83.6,81.5,85.7,4.2,South-eastern Asia,Asia,2.5,1.347
+Spain,83.5,80.8,86.2,5.4,Southern Europe,Europe,3.1,1.699
+Australia,83.4,81.5,85.4,3.9,Australia and New Zealand,Oceania,3.6,1.419
+Iceland,83.0,81.5,84.5,3.0,Northern Europe,Europe,2.0,1.072
+Israel,83.0,81.3,84.5,3.2,Western Asia,Asia,3.7,3.015
+Sweden,82.8,81.0,84.6,3.6,Northern Europe,Europe,2.6,1.533
+France,82.7,79.7,85.5,5.8,Western Europe,Europe,4.5,1.892
+Norway,82.4,80.4,84.4,4.0,Northern Europe,Europe,2.4,1.536
+Canada,82.4,80.4,84.4,4.0,Northern America,North America,4.9,1.327
+Ireland,82.3,80.7,83.9,3.3,Northern Europe,Europe,3.3,1.39
+Netherlands,82.3,80.6,84.0,3.4,Western Europe,Europe,4.0,1.53
+New Zealand,82.3,80.6,84.0,3.5,Australia and New Zealand,Oceania,4.7,1.221
+Greece,82.2,79.8,84.7,4.9,Southern Europe,Europe,3.8,1.933
+Portugal,82.1,79.0,84.9,5.9,Southern Europe,Europe,3.7,1.274
+Finland,81.9,79.1,84.7,5.7,Northern Europe,Europe,2.4,1.488
+Belgium,81.6,79.3,83.9,4.7,Western Europe,Europe,3.4,1.533
+Austria,81.5,79.2,83.9,4.8,Western Europe,Europe,3.5,1.291
+Germany,81.3,78.9,83.7,4.8,Western Europe,Europe,3.8,1.547
+Slovenia,81.3,78.6,84.0,5.5,Southern Europe,Europe,2.1,1.355
+Cyprus,81.0,78.9,83.0,4.2,Western Asia,Asia,2.3,1.805
+Denmark,80.9,78.9,82.9,5.0,Northern Europe,Europe,3.8,1.316
+Costa Rica,80.3,77.7,82.9,5.2,Central America,North America,8.6,1.706
+Chile,80.2,77.8,82.4,4.8,South America,South America,7.0,1.634
+Qatar,80.2,79.1,82.0,4.8,Western Asia,Asia,6.5,1.696
+Croatia,79.1,76.6,81.6,5.0,Southern Europe,Europe,4.8,1.645
+Lebanon,78.9,77.1,80.9,3.7,Western Asia,Asia,7.2,2.8
+Estonia,78.8,74.4,82.7,8.4,Northern Europe,Europe,2.4,1.727
+Cuba,78.8,76.8,80.8,3.9,Caribbean,North America,5.1,2.073
+Poland,78.7,74.8,82.6,7.8,Eastern Europe,Europe,4.4,1.654
+Albania,78.6,77.0,80.2,7.8,Southern Europe,Europe,9.7,1.821
+Panama,78.5,75.4,81.8,6.4,Central America,North America,14.9,1.804
+United Arab Emirates,78.0,77.3,79.3,2.1,Western Asia,Asia,7.5,1.847
+Uruguay,77.9,74.1,81.5,7.4,South America,South America,7.1,1.711
+Oman,77.9,76.1,80.3,4.2,Western Asia,Asia,11.4,1.953
+Turkey,77.7,74.7,80.6,5.4,Western Asia,Asia,10.0,2.735
+Slovakia,77.5,74.0,81.0,7.0,Eastern Europe,Europe,5.8,1.55
+Bosnia and Herzegovina,77.4,74.9,79.9,4.9,Southern Europe,Europe,5.9,2.019
+Bahrain,77.3,76.4,78.4,2.0,Western Asia,Asia,6.9,2.357
+Colombia,77.3,74.5,80.0,5.6,South America,South America,13.8,2.661
+Brazil,75.9,73.6,80.8,7.1,South America,South America,11.0,2.271
+Thailand,77.0,73.2,80.8,7.5,South-eastern Asia,Asia,9.0,2.278
+Sri Lanka,77.0,73.6,80.3,6.7,Southern Asia,Asia,7.1,1.986
+Ecuador,77.0,74.3,79.8,5.5,South America,South America,14.0,1.98
+Hungary,76.9,73.2,80.3,7.0,Eastern Europe,Europe,3.7,1.54
+Montenegro,76.9,74.4,79.3,4.9,Southern Europe,Europe,2.3,1.939
+China,76.9,74.8,79.2,4.4,Eastern Asia,Asia,7.9,2.217
+Algeria,76.9,75.7,78.1,2.4,Northern Africa,Africa,23.3,2.219
+Argentina,76.7,73.2,80.0,6.8,South America,South America,9.3,1.989
+Peru,76.7,74.1,79.5,5.5,South America,South America,13.2,2.016
+Tunisia,76.7,74.7,78.7,4.0,Northern Africa,Africa,16.9,2.035
+Morocco,76.7,75.4,77.9,2.5,Northern Africa,Africa,21.4,2.07
+Malaysia,76.2,74.2,78.3,4.1,South-eastern Asia,Asia,8.6,1.529
+Romania,76.1,72.6,79.5,6.9,Eastern Europe,Europe,7.0,1.562
+Serbia,76.0,73.4,78.6,5.2,Southern Europe,Europe,5.3,1.812
+Lithuania,75.9,70.3,81.4,11.1,Northern Europe,Europe,3.7,1.779
+North Macedonia,75.8,73.8,77.8,4.0,Southern Europe,Europe,6.1,1.933
+Kuwait,75.5,74.8,76.6,1.8,Western Asia,Asia,7.9,1.794
+Latvia,75.3,70.2,80.0,9.8,Northern Europe,Europe,3.6,1.718
+Honduras,75.3,73.0,77.6,4.6,Central America,North America,16.8,2.341
+Saudi Arabia,75.1,73.9,76.8,2.8,Western Asia,Asia,6.6,2.409
+Bulgaria,75.1,71.5,78.7,7.1,Eastern Europe,Europe,6.7,1.607
+Mexico,75.1,72.2,77.9,5.7,Central America,North America,14.2,2.6
+Armenia,75.1,71.3,78.5,7.2,Western Asia,Asia,11.8,2.294
+Mauritius,75.0,71.7,78.5,6.9,Eastern Africa,Africa,16.0,1.606
+Belarus,74.8,69.7,79.6,9.9,Eastern Europe,Europe,3.2,2.115
+Jamaica,74.5,72.9,76.1,3.2,Caribbean,North America,13.9,2.038
+Jordan,74.5,72.8,76.3,3.5,Western Asia,Asia,15.6,2.012
+Nicaragua,74.5,70.9,78.0,7.1,Central America,North America,16.6,2.312
+Paraguay,74.3,72.3,76.4,4.1,South America,South America,19.4,2.055
+Guatemala,74.3,72.2,77.2,4.1,Central America,North America,24.5,2.264
+Dominican Republic,74.1,71.0,77.4,6.4,Caribbean,North America,28.0,2.041
+Georgia,73.8,69.3,78.1,8.8,Western Asia,Asia,9.6,2.122
+Kazakhstan,73.6,69.2,77.7,5.3,Central Asia,Asia,10.5,1.932
+Trinidad and Tobago,73.6,70.9,76.2,8.5,Caribbean,North America,17.5,2.094
+El Salvador,73.3,68.5,77.8,9.4,Central America,North America,13.3,2.262
+Azerbaijan,73.0,70.5,75.5,5.0,Western Asia,Asia,20.4,2.425
+Libya,72.9,72.1,76.0,5.9,Northern Africa,Africa,11.5,2.995
+Bangladesh,72.6,70.9,74.6,3.7,Southern Asia,Asia,30.8,2.128
+Ukraine,72.1,71.1,76.8,9.7,Eastern Europe,Europe,8.4,3.296
+Egypt,72.0,69.7,74.3,4.6,Northern Africa,Africa,20.3,2.521
+Bhutan,71.8,71.4,72.2,0.8,Southern Asia,Asia,28.5,1.506
+Uzbekistan,71.7,70.6,73.8,4.3,Central Asia,Asia,17.4,2.166
+Indonesia,71.7,71.6,75.0,4.3,South-eastern Asia,Asia,23.9,1.785
+Philippines,71.2,70.3,75.5,8.3,South-eastern Asia,Asia,27.3,2.516
+Tajikistan,71.1,68.9,73.4,4.5,Central Asia,Asia,33.8,2.196
+Nepal,70.8,69.3,72.2,2.9,Southern Asia,Asia,30.8,2.003
+Iraq,70.7,70.6,72.7,4.1,Western Asia,Asia,25.9,3.3
+Mongolia,70.3,70.0,74.1,8.4,Eastern Asia,Asia,15.6,1.792
+Guyana,69.9,66.9,73.1,6.2,South America,South America,29.3,2.075
+Cambodia,69.8,67.5,71.9,4.3,South-eastern Asia,Asia,26.6,2.066
+India,69.7,68.5,71.0,2.5,Southern Asia,Asia,34.3,2.605
+Botswana,69.6,69.5,72.4,5.8,Southern Africa,Africa,41.6,1.676
+Rwanda,69.0,66.8,71.1,4.3,Eastern Africa,Africa,34.3,2.014
+Turkmenistan,68.4,67.7,71.7,7.0,Central Asia,Asia,42.0,2.265
+Senegal,67.9,65.8,69.9,4.1,Western Africa,Africa,45.3,1.883
+Pakistan,67.4,66.4,68.4,1.9,Southern Asia,Asia,67.2,3.369
+Myanmar,67.1,65.1,70.1,6.1,South-eastern Asia,Asia,44.7,2.393
+Djibouti,67.1,65.1,69.4,4.2,Eastern Africa,Africa,57.5,2.207
+Madagascar,67.0,65.4,68.7,3.2,Eastern Africa,Africa,50.6,1.867
+Kenya,67.0,66.9,69.0,4.7,Eastern Africa,Africa,43.2,2.3
+Ethiopia,66.6,65.0,68.5,3.8,Eastern Africa,Africa,50.7,2.434
+Gabon,66.5,65.4,68.7,4.7,Middle Africa,Africa,42.5,2.112
+Eritrea,66.3,64.2,68.6,4.4,Eastern Africa,Africa,40.5,2.504
+Yemen,66.1,63.4,67.5,3.4,Western Asia,Asia,58.4,3.526
+Sudan,65.5,65.5,67.2,3.6,Northern Africa,Africa,58.4,2.921
+Mauritania,65.0,65.0,66.5,3.2,Western Africa,Africa,72.9,2.333
+Afghanistan,64.8,62.7,64.9,3.0,Southern Asia,Asia,60.3,3.573
+Papua New Guinea,64.5,63.3,65.8,2.6,Melanesia,Oceania,44.8,2.118
+Malawi,64.3,61.1,67.4,6.2,Eastern Africa,Africa,41.6,1.728
+South Africa,64.1,60.7,67.7,6.9,Southern Africa,Africa,34.5,2.399
+Ghana,64.1,63.0,65.2,2.2,Western Africa,Africa,46.2,1.796
+Liberia,64.1,62.7,65.5,2.8,Western Africa,Africa,84.6,1.889
+Haiti,64.0,61.8,66.2,4.3,Caribbean,North America,62.8,2.052
+Zambia,63.9,60.8,66.9,5.9,Eastern Africa,Africa,61.7,1.805
+Namibia,63.7,60.7,66.5,5.8,Southern Africa,Africa,42.4,1.892
+Uganda,63.4,61.0,65.6,4.5,Eastern Africa,Africa,45.8,2.196
+Niger,62.4,61.3,63.6,2.3,Western Africa,Africa,80.4,2.394
+Benin,61.8,60.2,63.3,3.1,Western Africa,Africa,90.3,1.986
+Guinea,61.6,60.9,62.1,1.2,Western Africa,Africa,98.8,2.125
+Burkina Faso,61.6,60.7,62.3,1.5,Western Africa,Africa,87.5,2.176
+Burundi,61.6,59.8,63.4,3.6,Eastern Africa,Africa,56.5,2.52
+Zimbabwe,61.5,59.8,62.9,3.1,Eastern Africa,Africa,54.6,2.463
+Angola,61.2,58.4,64.0,5.6,Middle Africa,Africa,74.7,2.012
+Togo,61.0,60.2,61.9,1.7,Western Africa,Africa,66.9,2.205
+Mozambique,60.9,57.8,63.7,5.9,Eastern Africa,Africa,74.2,2.099
+Cameroon,59.3,58.0,60.6,2.5,Middle Africa,Africa,74.8,2.538
+Mali,59.3,58.5,60.1,1.5,Western Africa,Africa,94.0,2.71
+Equatorial Guinea,58.7,57.7,59.9,2.2,Middle Africa,Africa,81.8,1.957
+Guinea-Bissau,58.3,56.3,60.2,3.9,Western Africa,Africa,78.5,2.237
+South Sudan,57.9,56.4,59.4,3.0,Eastern Africa,Africa,96.2,3.285
+Nigeria,54.7,53.8,55.6,1.7,Western Africa,Africa,117.2,2.898
+Sierra Leone,54.7,53.9,55.5,1.6,Western Africa,Africa,109.2,1.822
+Lesotho,54.3,51.2,57.6,6.4,Southern Africa,Africa,86.4,2.167
+Chad,54.2,52.8,55.7,2.8,Middle Africa,Africa,113.8,2.522
+Central African Republic,53.3,51.1,55.5,4.4,Middle Africa,Africa,110.1,3.218
